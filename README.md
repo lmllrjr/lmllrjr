@@ -116,7 +116,7 @@ Feel free to explore my repositories and join me on this exciting coding journey
 
 <br>
 
-```sh
+```
 
     __  __                                                   __         __            __
    / / / /___ __   _____     ____ _   ____ _________  ____ _/ /_   ____/ /___ ___  __/ /
