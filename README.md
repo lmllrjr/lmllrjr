@@ -1,14 +1,16 @@
-
 <div align="center">
 <img src="images/header.svg" alt="Header" />
 </div>
 
 <br>
 
-![](https://svg-github-readme.vercel.app/api?type=animated_text&text="Hello"%20and%20"Welcome%20Stranger!"&color=E26EE5&font_size=50&font_family=Open%20Sans)
-My name is Lukas aka Luke nice to meet you stranger. I am a *Software Engineer* mostly focused on backend.
-Furthermore i am also a cool human being that always strives to do/be better than the day before. I do not like to define myself by the work i have done, but the work i will do!
-Fueled by high energy levels and boundless enthusiasm, I am easily inspired and more than willing to follow my fascinations wherever they take me. I am passionate about Backend Development, Cyber Security, Typography and have a natural ability to entertain and inspire. Because I love what I do, I have a steady source of motivation that drives me to do my best. This passion always leads me to challenge myself daily and learn new skills that help me to do better work. I am never satisfied to just come up with ideas. Instead I have an almost impulsive need to act on them.
+![](https://svg-github-readme.vercel.app/api?type=animated_text&text="Hello"%20and%20"Welcome%20Stranger!"&color=00FF41&font_size=50&font_family=Open%20Sans)
+I'm Lukas, but my nickname is simply Luke. I have a background in C and Java and currently i am a software engineer mainly working with Go developing microservice architecture. I am a purist when it comes to code, I enjoy writing code from scratch, crafting elegant solutions that stand the test of time (🤪).
+In my free time, I'm all about exploring the fascinating world of low-level programming. There's something magical about diving into the nitty-gritty details of bits and bytes, and seeing a raw output on the terminal screen always gets me as excited as a 5-year-old on a water slide for the first time 🤩 (*It has to be a 5 year old that actually likes water and adrenalin rushs, you get my point...*)! Furthermore you can find me geeking out over typography, tinkering with computer hardware, or simply embracing the cozy familiarity of my beloved terminal ❤️.
+
+When I'm not immersed in the world of programming, you can find me engaging in lively conversations, diving into captivating books, exploring the great outdoors through hiking, and savoring delicious food.
+
+Feel free to explore my repositories and join me on this exciting coding journey. Let's create remarkable software together! 🚀
 
 <br>
 
