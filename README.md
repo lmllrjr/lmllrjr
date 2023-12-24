@@ -21,7 +21,7 @@ Feel free to explore my repositories and join me on this exciting coding journey
 </div>
 
 <details>
-<summary>Take a look at the whole toolbox 🧰</summary>
+<summary>Check out the complete toolbox 🧰 (click me 👻)</summary>
 <table>
 <tr>
 <td>Languages</td>
