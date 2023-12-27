@@ -75,6 +75,7 @@ Feel free to explore my repositories and join me on this exciting coding journey
 <tr>
 <td>
 <a href="https://www.w3.org/2001/sw/wiki/REST" title="Rest"><img src="https://github.com/get-icon/geticon/raw/master/icons/rest.svg" alt="Rest" width="21px" height="21px"></a>
+<a href="https://grpc.io/" title="gRPC"><img src="https://opensource.google/static/images/projects/os-projects-grpc.svg" alt="gRPC" width="21px" height="21px"></a>
 <a href="https://graphql.org/" title="GraphQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg" alt="GraphQL" width="21px" height="21px"></a>
 <a href="https://www.w3.org/TR/websockets/" title="WebSocket"><img src="https://github.com/get-icon/geticon/raw/master/icons/websocket.svg" alt="WebSocket" width="21px" height="21px"></a>
 </td>
@@ -91,10 +92,23 @@ Feel free to explore my repositories and join me on this exciting coding journey
 </tr>
 
 <tr>
+<td>OS</td>
+</tr>
+<tr>
+<td>
+<a href="https://en.wikipedia.org/wiki/MS-DOS#:~:text=MS%2DDOS%20was%20the%20main,graphical%20Microsoft%20Windows%20operating%20system." title="MS DOS"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Msdos-icon.svg" alt="MS DOS" width="21px" height="21px"></a>  
+<a href="https://www.apple.com/macos/" title="Mac OS"><img src="https://github.com/get-icon/geticon/raw/master/icons/macOS.svg" alt="Mac OS" width="21px" height="21px"></a>
+<a href="https://www.linuxfoundation.org/" title="Linux"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="21px" height="21px"></a>
+<a href="https://www.microsoft.com/windows" title="Windows"><img src="https://github.com/get-icon/geticon/raw/master/icons/microsoft-windows.svg" alt="Windows" width="21px" height="21px"></a>
+</td>
+</tr>
+
+<tr>
 <td>General tools</td>
 </tr>
 <tr>
 <td>
+<a href="https://neovim.io/" title="Neovim"><img src="https://github.com/get-icon/geticon/raw/master/icons/neovim.svg" alt="Neovim" width="21px" height="21px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px"></a>
 <a href="https://circleci.com/" title="CircleCI"><img src="https://github.com/get-icon/geticon/raw/master/icons/circleci.svg" alt="CircleCI" width="21px" height="21px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
